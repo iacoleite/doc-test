@@ -1,0 +1,12 @@
+site_name: doc-test
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - versioning
+extra:
+  version:
+    provider: mike
+
+remote_branch: gh-pages
